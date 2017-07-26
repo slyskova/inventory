@@ -20,18 +20,6 @@ The following functionality is completed:
 * [X] Add support for adding a photo for the items (and display within listview item)
 * [X] Tweak the style improving the UI / UX, play with colors, images or backgrounds
 
-## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
-
-![Demo](http://i.imgur.com/zqYMnDb.gif)
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2017] [Sviatlana Lyskova]
